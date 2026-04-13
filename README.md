@@ -33,12 +33,12 @@ Official Website [https://www.festivalnacionalrobotica.pt/2026/](https://www.fes
 
 ## Scores
 
-| Team            |   DL | GPSR |  HRI |   PP | Rest | Total Score |
-|-----------------|-----:|-----:|-----:|-----:|-----:|------------:|
-| Gentlebots      |    0 |    0 |    0 |    0 |    0 |           0 |
-| LAR@Home        |    0 |    0 |    0 |    0 |    0 |           0 |
-| LisTex United   |    0 |    0 |    0 |    0 |    0 |           0 |
-| SocRob@Home     |    0 |    0 |    0 |    0 |    0 |           0 |
+| Rank | Team            |   DL | GPSR |  HRI |   PP | Rest | Total Score |
+|------|-----------------|-----:|-----:|-----:|-----:|-----:|------------:|
+|    1 | Gentlebots      |    0 |    0 |    0 |    0 |    0 |           0 |
+|    2 | LAR@Home        |    0 |    0 |    0 |    0 |    0 |           0 |
+|    3 | LisTex United   |    0 |    0 |    0 |    0 |    0 |           0 |
+|    4 | SocRob@Home     |    0 |    0 |    0 |    0 |    0 |           0 |
 
 Individual Task scores can be found [here](scores.md)
 
