@@ -73,13 +73,40 @@ Individual Task scores can be found [here](scores.md)
 | 21:00 |                     |                     |                     |                     |
 
 
-### Mapping Slots
-
-TBD
-
 ### Individual Shedules
 
-TBD
+#### Wed 22
+|   | Robot Inspection |
+|---|------------------|
+| 1 | Placeholder1     |
+| 2 | Placeholder2     |
+| 3 | Placeholder3     |
+| 4 | Placeholder4     |
+
+#### Thu 23
+|   | HRI (1st & 2nd)  | GPSR (1st & 2nd) | PP (1st & 2nd)   | DL (1st & 2nd)   |
+|---|------------------|------------------|------------------|------------------|
+| 1 | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     |
+| 2 | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     |
+| 3 | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     |
+| 4 | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     |
+
+#### Fri 24
+|   | HRI (3rd & 4th)  | GPSR (3rd & 4th) | PP (3rd & 4th)   | DL (3rd & 4th)   | Restaurant       |
+|---|------------------|------------------|------------------|------------------|------------------|
+| 1 | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     |
+| 2 | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     |
+| 3 | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     |
+| 4 | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     |
+
+
+#### Sat 25
+|   | HRI (5th)        | GPSR (5th)       | PP (5th)         | DL (5th)         | Finals           |
+|---|------------------|------------------|------------------|------------------|------------------|
+| 1 | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     |
+| 2 | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     |
+| 3 | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     |
+| 4 | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     |
 
 
 ## Arena
@@ -129,4 +156,3 @@ TBD
 - Objects
   - [Known Objects](objects/objects.md)
   - [Test Objects](objects/test_objects.md)
-- [Additional Objects](objects/test_objects.md)
