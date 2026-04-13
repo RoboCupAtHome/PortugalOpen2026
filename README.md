@@ -1,7 +1,8 @@
-# LocationYear
+# RoboCup PortugalOpen 2026, Barcelos
 
 ## Table of Contents
 
+- [Event](#event)
 - [Teams](#teams)
 - [Scores](#scores)
 - [Schedule](#schedule)
@@ -16,6 +17,9 @@
     + [Restaurant](#restaurant)
 - [General Information](#general-information)
 
+## Event
+
+Official Website
 
 ## Teams
 
