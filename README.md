@@ -50,7 +50,7 @@ Individual Task scores can be found [here](scores.md)
 | 10:00 |                     |                     |                     | Pick & Place (5th)  |
 | 10:30 |                     | HRI Challenge (1st) | HRI Challenge (3rd) | Doing Laundry (5th) |
 | 11:00 |                     | HRI Challenge (2nd) | HRI Challenge (4th) |                     |
-| 11:30 |                     | GPSR (1st)          | GPSR (3rd)          |                     |
+| 11:30 |                     | GPSR (1st)          | GPSR (3rd)          | League Photo        |
 | 12:00 |                     | GPSR (2nd)          | GPSR (4th)          |                     |
 | 12:30 |                     |                     |                     |                     |
 | 13:00 |                     |                     |                     |                     |
