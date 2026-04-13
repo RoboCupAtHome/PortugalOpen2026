@@ -19,7 +19,7 @@
 
 ## Event
 
-Official Website
+Official Website [https://www.festivalnacionalrobotica.pt/2026/](https://www.festivalnacionalrobotica.pt/2026/)
 
 ## Teams
 
