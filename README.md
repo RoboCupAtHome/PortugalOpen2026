@@ -9,6 +9,7 @@
     + [Mapping Slots](#mapping-slots)
     + [Individual Schedules](#individual-schedules)
 - [Arena](#arena)
+    + [Location Names](#location-names)
     + [Robot Inspection](#robot-inspection-and-poster-session)
     + [Human Robot Interaction](#human-robot-interaction)
     + [General Purpose Service Robot](#general-purpose-service-robot)
@@ -80,35 +81,44 @@ TBD
 
 TBD
 
+
 ## Arena
 
-TBD
+![](maps/arena3d.png)
+
+### Location Names
+
+![](maps/arena.png)
 
 ### Robot Inspection
 
-TBD
+![](maps/arena_inspection.png)
 
 ### Human Robot Interaction
 
-TBD
+![](maps/arena_hri.png)
 
 ### General Purpose Service Robot
 
-TBD
+![](maps/arena_gpsr.png)
 
 ### Pick and Place
 
-TBD
+![](maps/arena_pp.png)
 
 - "xxx" will be the trash category
 
 ### Doing Laundry
 
-TBD
+![](maps/arena_dl.png)
 
 ### Restaurant
 
-TBD
+- The objects in the following cathegories may be requested in the customers orders:
+    - XXX
+    - YYY
+    - ZZZ
+
 
 ## General Information
 
