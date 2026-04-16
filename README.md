@@ -33,7 +33,7 @@ Official Website [https://www.festivalnacionalrobotica.pt/2026/](https://www.fes
 
 ## Scores
 
-| Rank | Team            |   DL | GPSR |  HRI |   PP | Rest | Total Score |
+| Rank | Team            |  HRI | GPSR |   PP |   DL | Rest | Total Score |
 |------|-----------------|-----:|-----:|-----:|-----:|-----:|------------:|
 |    1 | Gentlebots      |    0 |    0 |    0 |    0 |    0 |           0 |
 |    2 | LAR@Home        |    0 |    0 |    0 |    0 |    0 |           0 |
@@ -142,9 +142,10 @@ Individual Task scores can be found [here](scores.md)
 ### Restaurant
 
 - The objects in the following cathegories may be requested in the customers orders:
-    - XXX
-    - YYY
-    - ZZZ
+    - Drinks
+    - Foods
+    - Snacks
+    - Fruits
 
 
 ## General Information
