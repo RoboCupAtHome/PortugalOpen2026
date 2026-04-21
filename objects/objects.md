@@ -29,7 +29,7 @@
 :-------------------------:|:-------------------------:
 | tennis_ball | ![](known_objects/toys!toy/tennis_ball.jpg) |
 | dice | ![](known_objects/toys!toy/dice.jpg) |
-| football | ![](known_objects/toys!toy/football.jpg) |
+| soccer_ball | ![](known_objects/toys!toy/soccer_ball.jpg) |
 | baseball | ![](known_objects/toys!toy/baseball.jpg) |
 | rubiks_cube | ![](known_objects/toys!toy/rubiks_cube.jpg) |
 
