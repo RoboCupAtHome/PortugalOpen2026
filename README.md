@@ -129,7 +129,7 @@ Individual Task scores can be found [here](scores.md)
 | 8 | pantry | food |
 | 9 | right lounge chair |
 | 10 | coloured couch |
-| 11 | left loung chair |
+| 11 | left lounge chair |
 | 12 | grey couch |
 | 13 | tv table |
 | 14 | bookshelf |
@@ -142,7 +142,7 @@ Individual Task scores can be found [here](scores.md)
 | 21 | pink storage | cleaning supplies |
 | 22 | laundry room trashcan |
 | 23 | washing machine | 
-| 24 | clothes drier |
+| 24 | clothes dryer |
 | 25 | laundry counter |
 | 26 | coat stand |
 

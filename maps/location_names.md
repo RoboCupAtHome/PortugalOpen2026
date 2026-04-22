@@ -11,7 +11,7 @@
 | 8 | pantry (p) | food |
 | 9 | right lounge chair |
 | 10 | coloured couch |
-| 11 | left loung chair |
+| 11 | left lounge chair |
 | 12 | grey couch |
 | 13 | tv table (p) |
 | 14 | bookshelf (p) |
@@ -24,7 +24,7 @@
 | 21 | pink storage (p) | cleaning supplies |
 | 22 | laundry room trashcan |
 | 23 | washing machine (p) | 
-| 24 | clothes drier |
+| 24 | clothes dryer |
 | 25 | laundry counter (p) |
 | 26 | coat stand |
 
