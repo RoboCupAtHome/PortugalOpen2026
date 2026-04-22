@@ -5,3 +5,7 @@
 | kitchen | 
 | office | 
 | living room | 
+| living room | 
+
+
+
