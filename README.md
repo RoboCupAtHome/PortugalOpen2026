@@ -111,7 +111,7 @@ Individual Task scores can be found [here](scores.md)
 
 ## Arena
 
-![](maps/arena3d.png)
+![](maps/arena3d.jpg)
 
 ### Location Names
 
