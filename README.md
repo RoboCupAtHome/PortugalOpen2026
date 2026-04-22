@@ -78,35 +78,35 @@ Individual Task scores can be found [here](scores.md)
 #### Wed 22
 |   | Robot Inspection |
 |---|------------------|
-| 1 | Placeholder1     |
-| 2 | Placeholder2     |
-| 3 | Placeholder3     |
-| 4 | Placeholder4     |
+| 1 | Gentlebots       |
+| 2 | LisTex United    |
+| 3 | LAR@Home         |
+| 4 | SocRob@Home      |
 
 #### Thu 23
 |   | HRI (1st & 2nd)  | GPSR (1st & 2nd) | PP (1st & 2nd)   | DL (1st & 2nd)   |
 |---|------------------|------------------|------------------|------------------|
-| 1 | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     |
-| 2 | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     |
-| 3 | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     |
-| 4 | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     |
+| 1 | LisTex United    | SocRob@Home      | LisTex United    | Gentlebots       |
+| 2 | Gentlebots       | Gentlebots       | SocRob@Home      | LisTex United    |
+| 3 | LAR@Home         | LLAR@Home        | LAR@Home         | SocRob@Home      |
+| 4 | SocRob@Home      | LisTex United    | Gentlebots       | LAR@Home         |
 
 #### Fri 24
 |   | HRI (3rd & 4th)  | GPSR (3rd & 4th) | PP (3rd & 4th)   | DL (3rd & 4th)   | Restaurant       |
 |---|------------------|------------------|------------------|------------------|------------------|
-| 1 | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     |
-| 2 | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     |
-| 3 | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     |
-| 4 | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     |
+| 1 | LAR@Home         | LisTex United    | LAR@Home         | LAR@Home         | SocRob@Home      |
+| 2 | SocRob@Home      | SocRob@Home      | Gentlebots       | SocRob@Home      | Gentlebots       |
+| 3 | Gentlebots       | Gentlebots       | LisTex United    | Gentlebots       | LisTex United    |
+| 4 | LisTex United    | LAR@Home         | SocRob@Home      | LisTex United    | LAR@Home         |
 
 
 #### Sat 25
 |   | HRI (5th)        | GPSR (5th)       | PP (5th)         | DL (5th)         | Finals           |
 |---|------------------|------------------|------------------|------------------|------------------|
-| 1 | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     | Placeholder1     |
-| 2 | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     | Placeholder2     |
-| 3 | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     | Placeholder3     |
-| 4 | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     | Placeholder4     |
+| 1 | Gentlebots       | LAR@Home         | LAR@Home         | Gentlebots       | 4th place        |
+| 2 | LisTex United    | SocRob@Home      | Gentlebots       | LisTex United    | 3th place        |
+| 3 | LAR@Home         | LisTex United    | SocRob@Home      | SocRob@Home      | 2th place        |
+| 4 | SocRob@Home      | Gentlebots       | LisTex United    | LAR@Home         | 1st place        |
 
 
 ## Arena
