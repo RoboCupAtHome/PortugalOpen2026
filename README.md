@@ -117,6 +117,36 @@ Individual Task scores can be found [here](scores.md)
 
 ![](maps/arena.png)
 
+| Number | Name  | Object Category
+| ------------ | ----------- | ----------- |
+| 1 | fridge |
+| 2 | kitchen counter | dishes |
+| 3 | kitchen trashcan | 
+| 4 | dishwasher |
+| 5 | dinner table |
+| 6 | cabinet | drinks |
+| 7 | side table |
+| 8 | pantry | food |
+| 9 | right lounge chair |
+| 10 | coloured couch |
+| 11 | left loung chair |
+| 12 | grey couch |
+| 13 | tv table |
+| 14 | bookshelf |
+| 15 | coffee table | fruits |
+| 16 | desk |
+| 17 | bed |
+| 18 | bedside table | toys |
+| 19 | reading chair |
+| 20 | shelf | snacks |
+| 21 | pink storage | cleaning supplies |
+| 22 | laundry room trashcan |
+| 23 | washing machine | 
+| 24 | clothes drier |
+| 25 | laundry counter |
+| 26 | coat stand |
+
+
 ### Robot Inspection
 
 ![](maps/arena_inspection.png)
