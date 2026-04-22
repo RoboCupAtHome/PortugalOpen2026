@@ -56,13 +56,13 @@ Individual Task scores can be found [here](scores.md)
 | 12:30 |                     |                     |                     |                     |
 | 13:00 |                     |                     |                     |                     |
 | 13:30 |                     |                     |                     |                     |
-| 14:00 | Team Leader Meeting |                     |                     | Finals              |
-| 14:30 | Team Leader Meeting |                     |                     | Finals              |
+| 14:00 |                     |                     |                     | Finals              |
+| 14:30 |                     |                     |                     | Finals              |
 | 15:00 |                     |                     | Restaurant          | Closing Ceremony    |
 | 15:30 |                     | Pick & Place (1st)  | Restaurant          | Closing Ceremony    |
 | 16:00 |                     | Pick & Place (2nd)  |                     |                     |
-| 16:30 |                     | Opening Ceremony    |                     |                     |
-| 17:00 |                     | Opening Ceremony    | Pick & Place (3rd)  |                     |
+| 16:30 | Team Leader Meeting | Opening Ceremony    |                     |                     |
+| 17:00 | Team Leader Meeting | Opening Ceremony    | Pick & Place (3rd)  |                     |
 | 17:30 |                     | Doing Laundry (1st) | Pick & Place (4th)  |                     |
 | 18:00 |                     | Doing Laundry (2nd) | Doing Laundry (3rd) |                     |
 | 18:30 | Robot Inspection    |                     | Doing Laundry (4th) |                     |
