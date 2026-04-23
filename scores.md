@@ -1,14 +1,14 @@
 # Human Robot Interaction Challenge
 | Attempt |     Team      | Score |
 | ------: | ------------: | ----: |
-|     1st | Gentlebots    |     - |
-|     1st | LAR@Home      |     - |
+|     1st | Gentlebots    |    65 |
+|     1st | LAR@Home      |   390 |
 |     1st | LisTex United |     - |
-|     1st | SocRob@Home   |     - |
-|     2nd | Gentlebots    |     - |
-|     2nd | LAR@Home      |     - |
+|     1st | SocRob@Home   |   400 |
+|     2nd | Gentlebots    |   280 |
+|     2nd | LAR@Home      |   670 |
 |     2nd | LisTex United |     - |
-|     2nd | SocRob@Home   |     - |
+|     2nd | SocRob@Home   |    15 |
 |     3rd | Gentlebots    |     - |
 |     3rd | LAR@Home      |     - |
 |     3rd | LisTex United |     - |
@@ -25,14 +25,14 @@
 # General Purpose Service Robot Challenge
 | Attempt |     Team      | Score |
 | ------: | ------------: | ----: |
-|     1st | Gentlebots    |     - |
-|     1st | LAR@Home      |     - |
+|     1st | Gentlebots    |     0 |
+|     1st | LAR@Home      |     0 |
 |     1st | LisTex United |     - |
-|     1st | SocRob@Home   |     - |
-|     2nd | Gentlebots    |     - |
-|     2nd | LAR@Home      |     - |
+|     1st | SocRob@Home   |     0 |
+|     2nd | Gentlebots    |    80 |
+|     2nd | LAR@Home      |   410 |
 |     2nd | LisTex United |     - |
-|     2nd | SocRob@Home   |     - |
+|     2nd | SocRob@Home   |     0 |
 |     3rd | Gentlebots    |     - |
 |     3rd | LAR@Home      |     - |
 |     3rd | LisTex United |     - |
