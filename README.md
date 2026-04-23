@@ -163,7 +163,7 @@ Individual Task scores can be found [here](scores.md)
 
 ![](maps/arena_pp.png)
 
-- "xxx" will be the trash category
+- Food is the trash category
 
 ### Doing Laundry
 
