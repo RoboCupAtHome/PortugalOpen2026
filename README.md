@@ -48,8 +48,8 @@ Individual Task scores can be found [here](scores.md)
 | ----- | ------------------- | ------------------- | ------------------- | ------------------- |
 | 09:00 |                     | Teams Registration  |                     | HRI Challenge (5th) |
 | 09:30 |                     |                     |                     | GPSR (5th)          |
-| 10:00 |                     |                     |                     | Pick & Place (5th)  |
-| 10:30 |                     | HRI Challenge (1st) | HRI Challenge (3rd) | Doing Laundry (5th) |
+| 10:00 |                     |                     |                     | Doing Laundry (5th) |
+| 10:30 |                     | HRI Challenge (1st) | HRI Challenge (3rd) | Pick & Place (5th)  |
 | 11:00 |                     | HRI Challenge (2nd) | HRI Challenge (4th) |                     |
 | 11:30 |                     | GPSR (1st)          | GPSR (3rd)          | League Photo        |
 | 12:00 |                     | GPSR (2nd)          | GPSR (4th)          |                     |
@@ -58,14 +58,14 @@ Individual Task scores can be found [here](scores.md)
 | 13:30 |                     |                     |                     |                     |
 | 14:00 |                     |                     |                     | Finals              |
 | 14:30 |                     |                     |                     | Finals              |
-| 15:00 |                     |                     | Restaurant          | Closing Ceremony    |
-| 15:30 |                     | Pick & Place (1st)  | Restaurant          | Closing Ceremony    |
-| 16:00 |                     | Pick & Place (2nd)  |                     |                     |
+| 15:00 |                     |                     |                     | Closing Ceremony    |
+| 15:30 |                     | Doing Laundry (1st) | Doing Laundry (3rd) | Closing Ceremony    |
+| 16:00 |                     | Doing Laundry (2nd) | Doing Laundry (4th) |                     |
 | 16:30 | Team Leader Meeting | Opening Ceremony    |                     |                     |
-| 17:00 | Team Leader Meeting | Opening Ceremony    | Pick & Place (3rd)  |                     |
-| 17:30 |                     | Doing Laundry (1st) | Pick & Place (4th)  |                     |
-| 18:00 |                     | Doing Laundry (2nd) | Doing Laundry (3rd) |                     |
-| 18:30 | Robot Inspection    |                     | Doing Laundry (4th) |                     |
+| 17:00 | Team Leader Meeting | Opening Ceremony    | Restaurant          |                     |
+| 17:30 |                     |                     |                     |                     |
+| 18:00 |                     | Pick & Place (1st)  | Pick & Place (3rd)  |                     |
+| 18:30 | Robot Inspection    | Pick & Place (2nd)  | Pick & Place (4th)  |                     |
 | 19:00 | Robot Inspection    | Team Leader Meeting | Team Leader Meeting |                     |
 | 19:30 |                     |                     |                     |                     |
 | 20:00 |                     |                     |                     |                     |
