@@ -26,7 +26,7 @@ Official Website [https://www.festivalnacionalrobotica.pt/2026/](https://www.fes
 
 |   Team Name   |   Country    |                           Institution                          |
 |---------------|--------------|----------------------------------------------------------------|
-| Gentlebots    | Spain        | Universidad de León                                            |
+| Gentlebots    | Spain        | Universidad de León / Universidad Rey Juan Carlos              |
 | LAR@Home      | Portugal     | University of Minho                                            |
 | LisTex United | Portugal/USA | Institute for Systems and Robotics (IST) / University of Texas |
 | SocRob@Home   | Portugal     | Institute for Systems and Robotics (IST)                       |
