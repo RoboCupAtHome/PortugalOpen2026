@@ -97,7 +97,7 @@
 # Restaurant Challenge
 | Attempt |     Team      | Score |
 | ------: | ------------: | ----: |
-|     1st | Gentlebots    |     - |
-|     1st | LAR@Home      |     - |
+|     1st | Gentlebots    |     0 |
+|     1st | LAR@Home      |   700 |
 |     1st | LisTex United |     - |
-|     1st | SocRob@Home   |     - |
+|     1st | SocRob@Home   |   200 |
