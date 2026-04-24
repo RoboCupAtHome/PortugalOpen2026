@@ -9,12 +9,12 @@
 |     2nd | LAR@Home      |   670 |
 |     2nd | LisTex United |     - |
 |     2nd | SocRob@Home   |    15 |
-|     3rd | Gentlebots    |     - |
-|     3rd | LAR@Home      |     - |
+|     3rd | Gentlebots    |   590 |
+|     3rd | LAR@Home      |   990 |
 |     3rd | LisTex United |     - |
 |     3rd | SocRob@Home   |     - |
-|     4th | Gentlebots    |     - |
-|     4th | LAR@Home      |     - |
+|     4th | Gentlebots    |   840 |
+|     4th | LAR@Home      |  1070 |
 |     4th | LisTex United |     - |
 |     4th | SocRob@Home   |     - |
 |     5th | Gentlebots    |     - |
@@ -33,14 +33,14 @@
 |     2nd | LAR@Home      |   410 |
 |     2nd | LisTex United |     - |
 |     2nd | SocRob@Home   |     0 |
-|     3rd | Gentlebots    |     - |
-|     3rd | LAR@Home      |     - |
+|     3rd | Gentlebots    |   540 |
+|     3rd | LAR@Home      |     0 |
 |     3rd | LisTex United |     - |
-|     3rd | SocRob@Home   |     - |
-|     4th | Gentlebots    |     - |
-|     4th | LAR@Home      |     - |
+|     3rd | SocRob@Home   |   440 |
+|     4th | Gentlebots    |   360 |
+|     4th | LAR@Home      |   440 |
 |     4th | LisTex United |     - |
-|     4th | SocRob@Home   |     - |
+|     4th | SocRob@Home   |   340 |
 |     5th | Gentlebots    |     - |
 |     5th | LAR@Home      |     - |
 |     5th | LisTex United |     - |
@@ -50,13 +50,13 @@
 | Attempt |     Team      | Score |
 | ------: | ------------: | ----: |
 |     1st | Gentlebots    |     - |
-|     1st | LAR@Home      |     - |
+|     1st | LAR@Home      |   885 |
 |     1st | LisTex United |     - |
-|     1st | SocRob@Home   |     - |
+|     1st | SocRob@Home   |    15 |
 |     2nd | Gentlebots    |     - |
-|     2nd | LAR@Home      |     - |
+|     2nd | LAR@Home      |   355 |
 |     2nd | LisTex United |     - |
-|     2nd | SocRob@Home   |     - |
+|     2nd | SocRob@Home   |   175 |
 |     3rd | Gentlebots    |     - |
 |     3rd | LAR@Home      |     - |
 |     3rd | LisTex United |     - |
