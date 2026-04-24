@@ -58,13 +58,13 @@
 |     2nd | LisTex United |     - |
 |     2nd | SocRob@Home   |   175 |
 |     3rd | Gentlebots    |     - |
-|     3rd | LAR@Home      |     - |
+|     3rd | LAR@Home      |   975 |
 |     3rd | LisTex United |     - |
-|     3rd | SocRob@Home   |     - |
+|     3rd | SocRob@Home   |   185 |
 |     4th | Gentlebots    |     - |
-|     4th | LAR@Home      |     - |
+|     4th | LAR@Home      |   160 |
 |     4th | LisTex United |     - |
-|     4th | SocRob@Home   |     - |
+|     4th | SocRob@Home   |    25 |
 |     5th | Gentlebots    |     - |
 |     5th | LAR@Home      |     - |
 |     5th | LisTex United |     - |
