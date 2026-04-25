@@ -42,6 +42,10 @@ Official Website [https://www.festivalnacionalrobotica.pt/2026/](https://www.fes
 
 Individual Task scores can be found [here](scores.md)
 
+## League Photo 
+
+![](league_photo.jpg)
+
 ## Schedule
 
 |       |       Wed 22        |       Thu 23        |       Fri 24        |       Sat 25        |
