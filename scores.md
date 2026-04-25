@@ -17,10 +17,10 @@
 |     4th | LAR@Home      |  1070 |
 |     4th | LisTex United |     - |
 |     4th | SocRob@Home   |     - |
-|     5th | Gentlebots    |     - |
-|     5th | LAR@Home      |     - |
-|     5th | LisTex United |     - |
-|     5th | SocRob@Home   |     - |
+|     5th | Gentlebots    |   560 |
+|     5th | LAR@Home      |  1060 |
+|     5th | LisTex United |    15 |
+|     5th | SocRob@Home   |   165 |
 
 # General Purpose Service Robot Challenge
 | Attempt |     Team      | Score |
@@ -41,10 +41,10 @@
 |     4th | LAR@Home      |   440 |
 |     4th | LisTex United |     - |
 |     4th | SocRob@Home   |   340 |
-|     5th | Gentlebots    |     - |
-|     5th | LAR@Home      |     - |
+|     5th | Gentlebots    |   540 |
+|     5th | LAR@Home      |   540 |
 |     5th | LisTex United |     - |
-|     5th | SocRob@Home   |     - |
+|     5th | SocRob@Home   |   440 |
 
 # Pick and Place Challenge
 | Attempt |     Team      | Score |
@@ -66,9 +66,9 @@
 |     4th | LisTex United |     - |
 |     4th | SocRob@Home   |    25 |
 |     5th | Gentlebots    |     - |
-|     5th | LAR@Home      |     - |
+|     5th | LAR@Home      |  1235 |
 |     5th | LisTex United |     - |
-|     5th | SocRob@Home   |     - |
+|     5th | SocRob@Home   |   175 |
 
 # Doing Laundry Challenge
 | Attempt |     Team      | Score |
