@@ -46,13 +46,13 @@ Individual Task scores can be found [here](scores.md)
 
 |       |       Wed 22        |       Thu 23        |       Fri 24        |       Sat 25        |
 | ----- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 09:00 |                     | Teams Registration  |                     | HRI Challenge (5th) |
-| 09:30 |                     |                     |                     | GPSR (5th)          |
+| 09:00 |                     | Teams Registration  |                     |                     |
+| 09:30 |                     |                     |                     |                     |
 | 10:00 |                     |                     |                     | Doing Laundry (5th) |
 | 10:30 |                     | HRI Challenge (1st) | HRI Challenge (3rd) | Pick & Place (5th)  |
-| 11:00 |                     | HRI Challenge (2nd) | HRI Challenge (4th) |                     |
-| 11:30 |                     | GPSR (1st)          | GPSR (3rd)          | League Photo        |
-| 12:00 |                     | GPSR (2nd)          | GPSR (4th)          |                     |
+| 11:00 |                     | HRI Challenge (2nd) | HRI Challenge (4th) | HRI Challenge (5th) |
+| 11:30 |                     | GPSR (1st)          | GPSR (3rd)          | GPSR (5th)          |
+| 12:00 |                     | GPSR (2nd)          | GPSR (4th)          | League Photo        |
 | 12:30 |                     |                     |                     |                     |
 | 13:00 |                     |                     |                     |                     |
 | 13:30 |                     |                     |                     |                     |
